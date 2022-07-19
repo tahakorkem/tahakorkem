@@ -1,6 +1,6 @@
 <p>
    <img width="53.3%" src="https://github-readme-stats-tahakorkem.vercel.app/api?username=tahakorkem&count_private=true&show_icons=true" />
-   &nbsp &nbsp
+   &nbsp
    <img width="44.6%" src="https://github-readme-stats-tahakorkem.vercel.app/api/top-langs/?username=tahakorkem&count_private=true&layout=compact&langs_count=6" />
 </p>
 
